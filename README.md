@@ -5,6 +5,8 @@ This project uses web scraping, Streamlit, and Gemini to create an AI-powered on
 **SETUP**:
 * install streamlit, pandas, google-generativeai, requests, beautifulsoup4.
 * An API key has be generated prior to the execution of the project(i.e., from Gemini API)
+* A csv file is required for file uploading.
+
 
 **USER GUIDE**:
 
